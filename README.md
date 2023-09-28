@@ -75,12 +75,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VaibhavZ10&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+![vaibhavz10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavz10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavZ10&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+![vaibhavz10's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavz10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </td></tr></table>  
 
 <br/>  
